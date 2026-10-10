@@ -1,0 +1,10 @@
+{
+  "name": "mel-pr-demo",
+  "version": "1.0.0",
+  "description": "Small cart checkout module used to demo pull-request reviews in Mel",
+  "main": "checkout.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
